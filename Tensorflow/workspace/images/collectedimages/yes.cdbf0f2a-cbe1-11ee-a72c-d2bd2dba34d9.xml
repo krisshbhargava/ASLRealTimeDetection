@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.cdbf0f2a-cbe1-11ee-a72c-d2bd2dba34d9.jpg</filename>
+	<path>/Users/krisshbhargava/Desktop/Projects/ASLRealTimeDetection/Tensorflow/workspace/images/collectedimages/yes.cdbf0f2a-cbe1-11ee-a72c-d2bd2dba34d9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1136</xmin>
+			<ymin>276</ymin>
+			<xmax>1683</xmax>
+			<ymax>687</ymax>
+		</bndbox>
+	</object>
+</annotation>
